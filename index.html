@@ -9,29 +9,45 @@
   <link href="css/custom.css" rel="stylesheet">
 </head>
 <body>
-  <div class="alert alert-warning" role="alert">This website is a third party site - this is not an official resource endorsed or maintained by the U.S Army.</div>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-    <div class="container">
-      <a class="navbar-brand" href="#">Scorpion</a> <button aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarResponsive" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item dropdown">
-            <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="navbarDropdown" role="button">Resources</a>
-            <div aria-labelledby="navbarDropdown" class="dropdown-menu">
-              <a class="dropdown-item disabled" href="#">MOS Lookup</a> <a class="dropdown-item disabled" href="#">RE Code Lookup</a>
-            </div>
-          </li>
-        </ul>
-      </div>
+  
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" style="
+">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#" style="
+">Scorpion</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">MOS Lookup</a></li>
+            <li><a class="dropdown-item" href="#">RE Lookup</a></li>
+            
+            
+          </ul>
+        </li>
+        
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
     </div>
-  </nav>
+  </div>
+</nav>
   <div class="container container-main">
     <header class="jumbotron my-4 home-jumbo">
-      <img class="display-3" src="assets/logo.png" style="width: 50%; margin: auto; padding-top: 10px; margin-left: auto; margin-right: auto; filter: drop-shadow(5px 5px 5px #222); display: block;"/>
-      <img class="display-2" src="assets/tagline.png" style="width: 50%; margin: auto; padding-top: 10px; margin-left: auto; margin-right: auto; filter: drop-shadow(5px 5px 5px #000); display: block;"/>
+      <img class="display-3" src="assets/logo.png" style="width: 50%; margin: auto; padding-top: 10px; margin-left: auto; margin-right: auto; filter: drop-shadow(5px 5px 5px #222); display: block;">
+      <img class="display-2" src="assets/tagline.png" style="width: 50%; margin: auto; padding-top: 10px; margin-left: auto; margin-right: auto; filter: drop-shadow(5px 5px 5px #000); display: block;">
       <br>
     </header><!-- Page Features -->
         <h2 style="margin-bottom: 20px;">Curated Links</h2>
@@ -368,6 +384,7 @@
   </script> 
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js">
   </script>
+
 
 
 
