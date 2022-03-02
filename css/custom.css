@@ -1,7 +1,8 @@
 .home-jumbo {
-  background-image: url(../assets/bg_ruck.jpg);
+  background-image: url(../assets/bg_rifle.jpeg);
   background-size: cover;
   color: white;
+  background-position: bottom;
 }
 
 .container-main {
