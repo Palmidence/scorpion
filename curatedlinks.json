@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "card-title": "Army Email",
+        "card-text": "Provides access to the Army's web mail portal",
+        "card-image": "https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png",
+        "card-link": "https://webapps.mail.mil",
+        "card-tags": "army-websites"
+    },
+    {
+        "id": "2",
+        "card-title": "DFAS MyPay",
+        "card-text": "Online payroll & accounting system to view pay, travel vouchers, and more",
+        "card-image": "https://mypay.dfas.mil/assets/images/myPay-Logo.svg",
+        "card-link": "https://mypay.dfas.mil/mypay.aspx",
+        "card-link": "finance", "dod-resources"
+    }
+]
