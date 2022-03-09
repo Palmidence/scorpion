@@ -1,0 +1,121 @@
+{
+    "labels": {
+        "Reserve": {
+            "display": "Reserve",
+            "label_color": "rgb(255, 215, 0)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "This resource is only available to Reserve servicemembers": {
+            "display": "Reserve only",
+            "label_color": "black",
+            "text_color": ""
+        },
+        "National Guard": {
+            "display": "National Guard",
+            "label_color": "rgb(40, 167, 69)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "This resource is only available to National Guard servicemembers": {
+            "display": "National Guard only",
+            "label_color": "grey",
+            "text_color": ""
+        }
+    },
+    "items": [{
+        "labels": [],
+        "title": "Army Email",
+        "text": "Provides access to the Army's web mail portal",
+        "url": "maps.html",
+        "image": "https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png"
+    }, {
+        "labels": [],
+        "title": "MyPay",
+        "text": "Online payroll &amp; accounting system to view pay, travel vouchers, and more",
+        "url": "https://mypay.dfas.mil/mypay.aspx",
+        "image": "https://mypay.dfas.mil/assets/images/myPay-Logo.svg"
+    }, {
+        "labels": [],
+        "title": "Military OneSource",
+        "text": "24/7 gateway to trusted information, resources and confidential help",
+        "url": "https://webmail.apps.mil/",
+        "image": "https://pbs.twimg.com/profile_images/921466710909169664/h1lLt696_400x400.jpg"
+    }, {
+        "labels": [],
+        "title": "Career Tracker",
+        "text": "Leadership development tool tailored for career progression",
+        "url": "https://mypay.dfas.mil/mypay.aspx",
+        "image": "https://actnow.army.mil/css/act/images/square-logo.png"
+    }, {
+        "labels": [],
+        "title": "Army 365",
+        "text": "Collaboration platform including teleconferencing, email, shared drives, and more",
+        "url": "https://dod.teams.microsoft.us/",
+        "image": "https://cdn.vox-cdn.com/thumbor/0pAzN6LdawcEO1pxZXy-78_VgVU=/7x0:633x417/1400x1050/filters:focal(7x0:633x417):format(jpeg)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg"
+    }, {
+        "labels": [],
+        "title": "Tricare",
+        "text": "Healthcare program for uniformed service members including health, dental, prescriptions, and more",
+        "url": "https://dod.teams.microsoft.us/",
+        "image": "https://www.tricare.mil/-/media/Images/TRICARE/TrademarkPage/Logos/TRICARELogo/FullColor/TRICARE_Logo_png.png?la=en&hash=FC7398F431B5D8BA217BB46D9981DF12E2F872192FED6AFD6C17B4205C567F42"
+    }, {
+        "labels": [],
+        "title": "ARMA",
+        "text": "Allows soldiers to instantly submit work orders to public works clerks",
+        "url": "https://dod.teams.microsoft.us/",
+        "image": "https://api.army.mil/e2/c/images/2021/01/19/d98b65e8/original.jpg"
+    }, {
+        "labels": [],
+        "title": "ASAP",
+        "text": "Connects soldiers to resources for the Army Substance Abuse Program",
+        "url": "https://dod.teams.microsoft.us/",
+        "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/244633588_227855139376059_3633668334229322312_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=1OxNj8vI-o8AX_O4jPx&_nc_ht=scontent-iad3-1.xx&oh=00_AT9PfhmYwujZTWnkEXK4L0YkPs6Dcer1FmPmPxPYbLyhNA&oe=62246628"
+    }, {
+        "labels": [],
+        "title": "SHARP",
+        "text": "Connects soldiers to resources for the Sexual Harassment/Assault Response and Prevention program",
+        "url": "https://www.armyresilience.army.mil/sharp/index.html",
+        "image": "https://i.imgur.com/Zua9U1W.png"
+    }, {
+        "labels": [],
+        "title": "ERB",
+        "text": "Multicomponent record brief showing snapshot of a soldier's career information",
+        "url": "https://www.armyresilience.army.mil/sharp/index.html",
+        "image": "https://i.imgur.com/9xeaOJU.png"
+    }, {
+        "labels": [],
+        "title": "ORB",
+        "text": "Multicomponent record brief showing snapshot of a soldier's career information",
+        "url": "https://www.armyresilience.army.mil/sharp/index.html",
+        "image": "https://i.imgur.com/3vFYBaQ.png"
+    }, {
+        "labels": ["Reserve", "This resource is only available to Reserve servicemembers"],
+        "title": "ERB/ORB (AR)",
+        "text": "Multicomponent record brief showing snapshot of a soldier's career information",
+        "url": "https://www.armyresilience.army.mil/sharp/index.html",
+        "image": "https://i.imgur.com/WbQyxRw.png"
+    }, {
+        "labels": ["National Guard", "This resource is only available to National Guard servicemembers"],
+        "title": "ERB/ORB (NG)",
+        "text": "Multicomponent record brief showing snapshot of a soldier's career information",
+        "url": "https://www.armyresilience.army.mil/sharp/index.html",
+        "image": "https://i.imgur.com/WbQyxRw.png"
+    }, {
+        "labels": [],
+        "title": "MEDPROS",
+        "text": "Real-time immunization, medical readiness, and deployability data portal",
+        "url": "https://www.armyresilience.army.mil/sharp/index.html",
+        "image": "https://i.imgur.com/AI7URbG.png"
+    }, {
+        "labels": [],
+        "title": "ATEP",
+        "text": "Demonstration for native headers instead of images",
+        "url": "https://www.armyresilience.army.mil/sharp/index.html",
+        "image": null
+    }, {
+        "labels": [],
+        "title": "ASPP",
+        "text": "Connects soldiers to Army Suicide Prevention Program",
+        "url": "https://www.armyresilience.army.mil/sharp/index.html",
+        "image": "https://dayton247now.com/resources/media2/16x9/full/1015/center/80/8ebb9322-321e-4f0f-bf90-61f88f1f9178-large16x9_Armylogo.jpg"
+    }]
+}
